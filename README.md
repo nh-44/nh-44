@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-nh44.dev-E8A33D?style=for-the-badge&logo=vercel&logoColor=white)](https://www.nh44.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nh44-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh44/)
-[![Email](https://img.shields.io/badge/Email-naveenselvaraj.selva-4FA8C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenselvaraj.selva@gmail.com)
+[![Email](https://img.shields.io/badge/Email-naveenselvaraj.selva@gmail.com-4FA8C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenselvaraj.selva@gmail.com)
 
 </div>
 
@@ -50,14 +50,6 @@ Final-year CS Engineering student at PES University, building backend systems an
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nh-44&show_icons=true&theme=dark&hide_border=true&bg_color=0B0E11&title_color=E8A33D&icon_color=4FA8C9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nh-44&layout=compact&theme=dark&hide_border=true&bg_color=0B0E11&title_color=E8A33D" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nh-44&theme=dark&hide_border=true&background=0B0E11&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
@@ -65,10 +57,4 @@ Final-year CS Engineering student at PES University, building backend systems an
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=nh-44&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-</div>
-
----
-
-<div align="center">
-<i>Currently researching post-quantum security for connected vehicles 🚗🔐</i>
 </div>
