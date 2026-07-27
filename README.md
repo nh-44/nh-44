@@ -51,10 +51,3 @@ Final-year CS Engineering student at PES University, building backend systems an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nh-44&theme=dark&hide_border=true&background=0B0E11&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nh-44&theme=darkhub&no-frame=true&margin-w=10&row=1" />
-</div>
