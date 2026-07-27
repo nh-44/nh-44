@@ -1,25 +1,74 @@
-## Hi there 👋 I'm Naveen
+<div align="center">
 
-- 🔭 I'm currently building **PatentEase**, an AI-powered patent analysis pipeline using semantic embeddings and LLM-based reasoning, and researching **post-quantum security for automotive OTA systems** (PQDrive).
-- 🌱 I'm currently learning **system design** and **data structures & algorithms**, gearing up for SDE interviews at product-based companies.
-- 👯 I'm looking to collaborate on **applied ML / explainable AI projects**, and anything at the intersection of **security + embedded/automotive systems**.
-- 🤔 I'm looking for help with **production-grade backend architecture** — I come from a research/ML-heavy background and I'm actively leveling up my systems engineering.
-- 💬 Ask me about **Explainable AI (Grad-CAM, SHAP, LIME)**, **post-quantum cryptography**, or **robotics/automotive hackathon builds**.
-- 📫 How to reach me: **naveenselvaraj.selva@gmail.com** · [LinkedIn](https://www.linkedin.com/in/nh44/) · [Portfolio](https://www.nh44.dev/)
-- ⚡ Fun fact: I once rebuilt a dead 30-person engineering club from scratch — now it runs 200+ person hackathons with companies like Ather Energy.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=E8A33D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naveen+S;Backend+%2B+Applied+ML+Engineer;IEEE+Published+Researcher;Building+PatentEase+%26+PQDrive" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nh44.dev-E8A33D?style=for-the-badge&logo=vercel&logoColor=white)](https://www.nh44.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nh44-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nh44/)
+[![Email](https://img.shields.io/badge/Email-naveenselvaraj.selva-4FA8C9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenselvaraj.selva@gmail.com)
+
+</div>
+
+---
+
+### 👋 About Me
+
+Final-year CS Engineering student at PES University, building backend systems and applied ML pipelines. Published researcher at **IEEE INDICON 2025**, currently building **PatentEase** (LLM-based patent analysis) and researching **post-quantum security for automotive OTA systems**.
+
+- 🔭 Currently building **PatentEase** — semantic search + LLM reasoning for patent novelty analysis
+- 🔐 Researching **post-quantum cryptography for automotive OTA firmware** (PQDrive)
+- 🌱 Learning **system design** and **DSA**, prepping for SDE interviews
+- 👯 Open to collaborate on **applied ML**, **explainable AI**, or **embedded/automotive security**
+- 💬 Ask me about **Explainable AI**, **Vision Transformers**, or **post-quantum crypto**
+- ⚡ Fun fact: rebuilt a dead 30-person engineering club into one running 600+ student events
 
 ---
 
 ### 🏆 Highlights
-- 📄 Published at **IEEE INDICON 2025** — Multimodal Explainable AI for medicinal plant classification
-- 🥇 **1st Place**, Heal-O-Code Hackathon — NFC-based emergency medical ID system
-- 🔐 **Top 21/73**, MAHE Mobility Hackathon — post-quantum OTA security for connected vehicles
-- 🌿 **Top 30/500+**, National Hackathon: Tech for Agriculture
-- ✈️ **Top 35/86**, HAL Aerothon — helicopter fuel injection digital twin
 
-### 🛠️ Tech I work with
-`Python` `Node.js` `React` `PostgreSQL` `AWS` `Docker` `LLMs` `Vision Transformers` `Explainable AI`
+| | |
+|---|---|
+| 📄 **IEEE INDICON 2025** | Published — Multimodal XAI for medicinal plant classification |
+| 🥇 **Heal-O-Code Hackathon** | 1st Place — NFC-based emergency medical ID system |
+| 🔐 **MAHE Mobility Hackathon** | Top 21/73 — Post-quantum OTA security (PQDrive) |
+| 🌿 **Tech for Agriculture Hackathon** | Top 30/500+ — LeafWise |
+| ✈️ **HAL Aerothon '25** | Top 35/86 — Helicopter fuel injection digital twin |
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
 
 ### 📊 GitHub Stats
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nh-44&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nh-44&layout=compact&theme=radical)
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nh-44&show_icons=true&theme=dark&hide_border=true&bg_color=0B0E11&title_color=E8A33D&icon_color=4FA8C9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nh-44&layout=compact&theme=dark&hide_border=true&bg_color=0B0E11&title_color=E8A33D" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nh-44&theme=dark&hide_border=true&background=0B0E11&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=nh-44&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+</div>
+
+---
+
+<div align="center">
+<i>Currently researching post-quantum security for connected vehicles 🚗🔐</i>
+</div>
